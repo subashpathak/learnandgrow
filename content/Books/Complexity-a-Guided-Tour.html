@@ -1,0 +1,162 @@
+---
+title: "Complexity: A guided Tour"
+author: "Subash Pathak"
+date: "July 28, 2019"
+output: html_document
+---
+
+
+
+<ul>
+<li><strong>Following is a collection of notes from Melanie Mitchell’s book “Complexity: A Guided Tour”</strong></li>
+</ul>
+<div id="book-details" class="section level2">
+<h2>Book Details:</h2>
+<ul>
+<li>Author: Melanie Mitchell</li>
+<li>Link: <a href="https://www.amazon.com/Complexity-Guided-Tour-Melanie-Mitchell/dp/0199798109" class="uri">https://www.amazon.com/Complexity-Guided-Tour-Melanie-Mitchell/dp/0199798109</a></li>
+<li>ISBN-13: 978-0199798100</li>
+<li>ISBN-10: 0199798109</li>
+</ul>
+</div>
+<div id="part-one-background-and-history" class="section level2">
+<h2>Part One: Background and History</h2>
+</div>
+<div id="chapters-1-6-what-is-complexitydynamicschaos-and-prediction-information-computation-evolution-and-genetics-simplified-defining-and-measuring-complexity" class="section level2">
+<h2>Chapters 1-6: What is complexity,Dynamics,Chaos and Prediction, Information, Computation, Evolution and Genetics Simplified, Defining and Measuring Complexity</h2>
+<ul>
+<li>Nigel Franks, a biologist specializing on ant behaviors says “The solitary army ant is behaviorally one of the least sophisticated animals imaginable”.</li>
+<li>If you place 100 army ants on a flat surface, they will walk around and around in never decreasing circle until they die of exhaustion.But if you put half a million of them together, and the group as a whole becomes what some have called “superorganisms” with “collective intelligence”.</li>
+<li>Scientists fully don’t understand the mechanism behind ant colony’s collective intelligence.</li>
+<li>Questions like the mechanism underlying ant colony’s collective intelligence are the topics of complex systems.</li>
+<li>Complex systems is an interdisciplinary field of research that seeks to explain how large numbers of relatively simple entities organize themselves, without the benefit of any central controller, into a collective whole that creates patterns, uses information, and in some cases, evolves and learn.</li>
+<li>Eg: In neurons, we have dendrites that transmits cell’s input from other neurons, cell’s output is transmitted via single trunk called axon.</li>
+<li>A neuron can either be in firing (active) or not firing (inactive) state. Firing consists of sending an electric pulse through the axon which is then converted into chemical signals via chemicals called neurotransmitters which in turn activates other neurons through their dendrites.</li>
+<li>Firing frequency and resulting chemical output signals of a neuron can vary over time because of its input and how it has been firing recently.</li>
+<li><p>These characters resemble to that of ant colony: Individuals (neurons or ants) perceive signals from other individuals, and a, sufficient summed strength of these signals causes the individuals act in certain ways that produces additional signals. The overall effects can be very complex.</p></li>
+<li>Immune System, economies and World wide Web are some additional examples of complex systems.</li>
+<li>Common properties of complex systems:
+<ul>
+<li><strong>Complex collective Behavior</strong>: The complex systems like ant colony,neurons, stockbuyers,World Wide Web typically follow relatively simple rules with no central control or leader. It is the collective action of vast number of components that give rise to the complex,hard to predict and chaning patterns of behaviors that fascinate us.</li>
+<li><strong>Signaling and information processing</strong>: All these systems produce and use information and signals from both their internal and external environments.</li>
+<li><strong>Adaptation</strong>: All these systems adapt- that is, change their behavior to improve their chances of survival or success- through learning or evolutionary process.</li>
+</ul></li>
+<li>Complex system is a system that exhibits nontrivial emergent and self organizing behaviors.</li>
+<li><p>How can complexity be Measured?</p></li>
+<li><strong>Dynamics,Chaos,and Prediction</strong>:</li>
+<li>Dynamical Systems Theory concerns the description and prediction of systems that exhibit complex changing behavior at the macroscopic level, emerging from collective actions of many interacting components.</li>
+<li>eg: solar system, heart, brain, stock market, world’s population, global climate are some examples of dynamical systems.</li>
+<li>Galileo revolutionized the ideas about motion; rest is not the natural state of the objects, it takes force to stop a moving object.</li>
+<li>Newton invented science of dynamics; general study of motion is called mechanics</li>
+<li>Newton’s three laws of motion are constant speed, inertial mass and equal and opposite force.</li>
+<li>Heisenberg uncertainty principle (1927)</li>
+<li>chaotic systems: sensitive dependence on intial conditions</li>
+<li>Henry poincare (French Mathematician) discovered chaotic systems while tackling three body problem and he discovered <em>algebraic topology</em> to solve the problem</li>
+<li>linearity vs. Non-linearity</li>
+<li><strong>logistic model</strong>:non-linear equation because of its inclusion of death by overcrowding</li>
+<li><strong>The logistic map</strong>: Equation <span class="math inline">\(x_{t+1}=Rx_{t}(1-x_{t})\)</span><br />
+</li>
+<li><strong>Attracter</strong>: Regular final behavior of logistic map (either fixed point or oscillation).</li>
+<li>Three different classes of final behavior(attractors): Fixed point, periodic and chaotic.</li>
+<li>Apparent randomness can arise from very simple deterministic systems.</li>
+<li>Universal features that are common to chaotic systems:</li>
+<li>The period doubling route to chaos
+<ul>
+<li>Abrupt period doublings are called bifurcation and the succession of the bifurcations culminating in chaos has been called the “period doubling route to chaos”</li>
+</ul></li>
+<li>Feigenbaum’s Constant: Feigenbaum measured the rate at which bifurcations get closer and closer; rate at which R values converge. (the rate is a constant value 4.6692016)</li>
+<li>Seemingly random behavior can emerge from deterministic systems, with no external source of randomness</li>
+<li>The behavior of some simple, deterministic systems can be impossible, even in principle, to predict in the long term, due to sensitive dependence on initial conditions</li>
+<li><p>Although the detailed behavior of a chaotic system cannot be predicted, there is some “order in chaos” seen in universal properties common to large sets of chaotic systems, such as the period doubling route to chaos and Feigenbaum’s constant. Thus even though “prediction becomes impossible” at the detailed level, there are some higher-level aspects of chaotic systems that are indeed predictable.</p></li>
+</ul>
+</div>
+<div id="information" class="section level2">
+<h2>Information</h2>
+<ul>
+<li>A complete account of how entropy defying self-organization takes place is the holy grail of complex systems science.</li>
+<li>Complex systems resemble one another in the way they handle information.</li>
+<li>information and computation</li>
+<li>entropy is the measure of energy that cannot be converted to additional work.</li>
+<li>laws of thermodynamics: 1) Energy is conserved 2) Entropy always increases until it reaches a maximum value.</li>
+<li>Someone or something has to do work to turn disorder into order.</li>
+<li>Second law of thermodynamics is the only fundamental law of physics that distinguishes between past and future.</li>
+<li>Maxwell’s Demon: According to Maxwell second law (the increase of entropy over time) is not really a law at all, but rather a statistical effect that holds for large collections of molecules, like ths objects we encounter in day-to-day life, but does not necessarily hold at the scale of individual molecules.</li>
+<li>Szilard first made a link between entropy and information; his paper “On the decrease of entropy in a thermodynamics system by the intervention of intelligent beings”</li>
+<li>Entire systemc comprising the box, the molecules and the demon obeys the second law of thermodynamics</li>
+<li>observer plays a key role in quantum mechanics</li>
+<li>reversible computing: any computation can be done without expending energy.</li>
+<li>it is not the act of measurement but rather the act of eraing memory that necessarily increases entropy</li>
+<li>Bennet showed that for the demon to work, its memory must be erased at some point, and when it is , the physicla act of erasure will produce heat, thus increasing entropy by an amount exactly equal to the amount entropy was decreased by the demon’s sorting actions.</li>
+<li>Resolutions to the demon paradox became the foundations of two new fields: information theory and the physics of information</li>
+<li><strong>statistical mechanics</strong>:it proposes large scale properties (eg. heat) emerge from microscopic properties (i.e. motions of trillions of molecules).</li>
+<li>A statistical mechanics approach gives up on determining the exact position, velocity and future behavior of each molecule in the room and instead tries to predict the average positions and velocities of large ensembles of molecules.</li>
+<li><strong>Microstates and Macrostates</strong>: Boltzman entropy obeys the second law of thermodynamics. Unless work is done, Boltzman’s entropy will always increase until it gets to a macrostate with highest possible entropy</li>
+<li><strong>Shannon Information</strong></li>
+<li>Maximum transformission rate of information over a given channel (wire or other medium), even if there are errors in transmission caused by noise on the channel. This maximum transmission rate is called <em>channel capacity</em>.</li>
+<li><p><strong>Shannon entropy</strong></p></li>
+<li><strong>Computation</strong>: The notion of computation has come long ways since the early days of computers. Many phenomenon in nature are viewed as computation now.</li>
+<li>Information concerns the predictability of a message, and information is processed via imputation</li>
+<li>Before 1940s, those who could do faster math calculation by hand used to be called computer.</li>
+<li>Electonics computers do computation now; natural complex systems also do compuation.</li>
+<li>Does computers have any limits? How much can be accomplished through computation?</li>
+<li>Set of abstract math problems posed by German Mathematician David Hilbert in the year 1900 at the international congress of mathematicians in Paris sparked deeper study of foundations and limitations of computation which led to the discovery of electronic computers.</li>
+<li>Is mathematics complete?: Can every mathematical statement be proved or disproved from a given finite set of axioms?</li>
+<li>Is mathematics consistent?: Can only the true statements be proved.</li>
+<li>Is every statment in mathematics decidable?: Is there a finite procedure that can be applied to every statement that will tell us in finite time whether or not the statement is true/false?</li>
+<li>Godel’s incompleteness theorem: If arithmetic is consistent, then there are true statement in arithmetic that cannot be proved, that is, arithmetic is incomplete.</li>
+<li><strong>Turing machines and incomputability</strong>:</li>
+<li>Definite procedures defined as turing machines: Turing machines were put forth as the definition of “definite procedure”</li>
+<li>Universal Turing Machines</li>
+<li>The very same string of 0s and 1s on a tape could be interpreted as either a program or as input to another program was truly novel.</li>
+<li>There can be no definite procedure for solving the halting problem</li>
+<li>Universal turing machines laid the groundwork for the invention of electronic programmable computers during 1930s.</li>
+<li><strong>Evolution</strong></li>
+<li>To decrease entropy, work must be done. Who or what is doing the work of creating and maintaining living systems and making them more complex?</li>
+<li>Pre-darwinian notions of Evolution: inheritance of acquired characteristics</li>
+<li><strong>Notion of invisible hand in economics</strong>: A collection of individuals acting in their own self interest produces maximum benefit for the entire community.</li>
+<li>Evolution by natural selection</li>
+<li>Mendel and Mechanism of Heredity: Medium of inheritance of characteristics were the discrete factors contributed by both parents</li>
+<li>Drift is a stronger force in small rather than large populations, because in large populations, the small fluctuations that eventually result in drift tend to cancel one another out.</li>
+<li>Wright believed that random genetic drift played a significant role in evolutionary change and origin of new species, whereas in Fisher’s view, drift played only an insignificant role at best.</li>
+<li>Historical contingency: All the random accidents large and small that have contributed to the shaping of an oragnism</li>
+<li>The transcription and translation of a gene is called the gene’s expression and a gene is being expressed at a given time if it is being transcribed and translated</li>
+<li>Physicist Seth Lloyd in 2001 proposed three different dimensions to measure the complexity of an object or process</li>
+<li>how hard is it to describe?</li>
+<li>How hard is it to create?</li>
+<li>What is its degree of organization ?</li>
+<li><p>Complexity as size, complexity as entropy,complexity as algorithmic information content,complexity as a logical depth, complexity as a thermodynamic depth, complexity as computational capacity,statistical complexity,complexity as fractal dimension,complexity as a degree of hierarchy</p></li>
+</ul>
+</div>
+<div id="life-and-evolution-in-computers" class="section level2">
+<h2>Life and Evolution in Computers</h2>
+</div>
+<div id="chapters-8-9-self-reproducing-computer-programs-genetic-algorithms" class="section level2">
+<h2>Chapters 8-9: Self-reproducing computer programs, Genetic Algorithms</h2>
+<ul>
+<li>Biologists claim computers don’t check all the requisties of life like autonomy, metabolism,self-reproduction,survival instinct, evolution and adaptation.</li>
+<li>Computers have been able to do these things one way or another</li>
+<li>Dual use of information used for self-reproducing computer program. eg. Godel’s paradox, self-replication in DNA</li>
+<li>John Von Neumann (formuated in 1950s) self-reproducing Automaton contained self-copying program as well as the machinery needed for its interpretation similar to what was found later in DNAs.</li>
+<li>Von Neuman wanted to have computers reproduce themselves with mutation and comptete for resources to survive in the environment (survival instinct, evolution and adaptation).</li>
+<li>John Holland’s 1975 book <em>Adaptation in natural and artifical systems</em> laid out set of principles for adaptation and proposal for genetic algorithms</li>
+<li>In genetic algorithm, we want the program to evolve over time itself and do the better job than it did in the beginning.</li>
+<li>GA has two parts: population of condidate programs and fitness function that takes a candidate program and assigns to it a fitness value that measures how well that programs work on the desired task.</li>
+<li>GAs have been used in solving many hard problems in many scientific and engineering areas as well as in art, achitecture and music.</li>
+<li>Evolving Robby, the soda can collecting robot</li>
+<li>Its difficukt to figure out how the interactions of various genes lead to the overall behavior or fitness of the robot</li>
+<li>The increase in number of iterations of Robot’s work increases its performance and fitness. That means it evolves a solution that works at each iteration of the task.</li>
+</ul>
+</div>
+<div id="computation-writ-large" class="section level2">
+<h2>Computation writ Large</h2>
+</div>
+<div id="chapters-101112-cellular-automata-life-and-the-universe-computing-with-particles-and-information-processing-in-living-systems" class="section level2">
+<h2>chapters 10,11,12: Cellular automata, life and the universe, computing with particles and information processing in living systems</h2>
+<ul>
+<li>Cellular automaton</li>
+<li>In a computer, RAM stores program instructions and data as a memory and CPU fetches the instructions and data from the memory and executes the instructions on the data</li>
+<li>cellular automaton is a grid of cells where each cell is a simple unit that turns on or off in response to the states in its local neighborhood.</li>
+<li>The game of life (John COnway): Conway defined cells in terms of four life process; <strong>birth</strong>-a dead cell with exactly three live neighbors becomes alive at the next step; <strong>survival</strong>,a live cell with exactly two or three live neighbors stays alive; <strong>loneliness</strong>, a live cell with fewer than two neigbor dies and a dead cell with fewer than three neighbors stays dead; and <strong>overcrowding</strong>, a live or dead cell with more than three live neighbors dies or stays dead.</li>
+<li></li>
+</ul>
+</div>

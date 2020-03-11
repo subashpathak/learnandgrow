@@ -1,0 +1,142 @@
+---
+title: "Complexity: A guided Tour"
+author: "Subash Pathak"
+date: "July 28, 2019"
+output: html_document
+---
+
+* **Following is a collection of notes from Melanie Mitchell's book "Complexity: A Guided Tour"**
+
+## Book Details:
+* Author: Melanie Mitchell
+* Link: https://www.amazon.com/Complexity-Guided-Tour-Melanie-Mitchell/dp/0199798109
+* ISBN-13: 978-0199798100
+* ISBN-10: 0199798109
+
+
+## Part One: Background and History
+
+## Chapters 1-6: What is complexity,Dynamics,Chaos and Prediction, Information, Computation, Evolution and Genetics Simplified, Defining and Measuring Complexity
+* Nigel Franks, a biologist specializing on ant behaviors says "The solitary army ant is behaviorally one of the least sophisticated animals imaginable".
+* If you place 100 army ants on a flat surface, they will walk around and around in never decreasing circle until they die of exhaustion.But if you put half a million of them together, and the group as a whole becomes what some have called "superorganisms" with "collective intelligence".
+* Scientists fully don't understand the mechanism behind ant colony's collective intelligence.
+* Questions like the mechanism underlying ant colony's collective intelligence are the topics of complex systems.
+* Complex systems is an interdisciplinary field of research that seeks to explain how large numbers of relatively simple entities organize themselves, without the benefit of any central controller, into a collective whole that creates patterns, uses information, and in some cases, evolves and learn.
+* Eg: In neurons, we have dendrites that transmits cell's input from other neurons, cell's output is transmitted via single trunk called axon.
+* A neuron can either be in firing (active) or not firing (inactive) state. Firing consists of sending an electric pulse through the axon which is then converted into chemical signals via chemicals called neurotransmitters which in turn activates other neurons through their dendrites.
+* Firing frequency and resulting chemical output signals of a neuron can vary over time because of its input and how it has been firing recently.
+* These characters resemble to that of ant colony: Individuals (neurons or ants) perceive signals from other individuals, and a, sufficient summed strength of these signals causes the individuals act in certain ways that produces additional signals. The overall effects can be very complex.
+
+* Immune System, economies and World wide Web are some additional examples of complex systems.
+* Common properties of complex systems:
+    * **Complex collective Behavior**: The complex systems like ant colony,neurons, stockbuyers,World Wide Web typically follow relatively simple rules with no central control or leader. It is the collective action of vast number of components that give rise to the complex,hard to predict and chaning patterns of behaviors that fascinate us.
+    * **Signaling and information processing**: All these systems produce and use information and signals from both their internal and external environments.
+    * **Adaptation**: All these systems adapt- that is, change their behavior to improve their chances of survival or success- through learning or evolutionary process.
+* Complex system is a system that exhibits nontrivial emergent and self organizing behaviors.
+* How can complexity be Measured?
+
+* **Dynamics,Chaos,and Prediction**:
+* Dynamical Systems Theory concerns the description and prediction of systems that exhibit complex changing behavior at the macroscopic level, emerging from collective actions of many interacting components.
+* eg: solar system, heart, brain, stock market, world's population, global climate are some examples of dynamical systems.
+* Galileo revolutionized the ideas about motion; rest is not the natural state of the objects, it takes force to stop a moving object.
+* Newton invented science of dynamics; general study of motion is called mechanics
+* Newton's three laws of motion are constant speed, inertial mass and equal and opposite force.
+* Heisenberg uncertainty principle (1927)
+* chaotic systems: sensitive dependence on intial conditions
+* Henry poincare (French Mathematician) discovered chaotic systems while tackling three body problem and he discovered *algebraic topology* to solve the problem
+* linearity vs. Non-linearity
+* **logistic model**:non-linear equation because of its inclusion of death by overcrowding
+* **The logistic map**:  Equation $x_{t+1}=Rx_{t}(1-x_{t})$  
+* **Attracter**: Regular final behavior of logistic map (either fixed point or oscillation).
+* Three different classes of final behavior(attractors): Fixed point, periodic and chaotic.
+* Apparent randomness can arise from very simple deterministic systems.
+* Universal features that are common to chaotic systems:
+  * The period doubling route to chaos
+    * Abrupt period doublings are called bifurcation and the succession of the bifurcations 
+    culminating in chaos has been called the "period doubling route to chaos"
+  * Feigenbaum's Constant: Feigenbaum measured the rate at which bifurcations get closer and closer; rate at which R values converge. (the rate is a constant value 4.6692016)
+* Seemingly random behavior can emerge from deterministic systems, with no external source of randomness
+* The behavior of some simple, deterministic systems can be impossible, even in principle, to predict in the long term, due to sensitive dependence on initial conditions
+* Although the detailed behavior of a chaotic system cannot be predicted, there is some "order in chaos" seen in universal properties common to large sets of chaotic systems, such as the period doubling route to chaos and Feigenbaum's constant. Thus even though "prediction becomes impossible" at the detailed level, there are some higher-level aspects of chaotic systems that are indeed predictable.
+
+##Information
+* A complete account of how entropy defying self-organization takes place is the holy grail of complex systems science.
+* Complex systems resemble one another in the way they handle information.
+* information and computation
+* entropy is the measure of energy that cannot be converted to additional work.
+* laws of thermodynamics: 1) Energy is conserved 2) Entropy always increases until it reaches a maximum value.
+* Someone or something has to do work to turn disorder into order.
+* Second law of thermodynamics is the only fundamental law of physics that distinguishes between past and future.
+* Maxwell's Demon: According to Maxwell second law (the increase of entropy over time) is not really a law at all, but rather a statistical effect that holds for large collections of molecules, like ths objects we encounter in day-to-day life, but does not necessarily hold at the scale of individual molecules.
+* Szilard first made a link between entropy and information; his paper "On the decrease of entropy in  a thermodynamics system by the intervention of intelligent beings"
+* Entire systemc comprising the box, the  molecules and the demon obeys the second law of thermodynamics
+* observer plays a key role in quantum mechanics
+* reversible computing: any computation can be done without expending energy.
+* it is not the act of measurement but rather the act of eraing memory that necessarily increases entropy
+* Bennet showed that for the demon to work, its memory must be erased at some point, and when it is , the physicla act of erasure will produce heat, thus increasing entropy by an amount exactly equal to  the amount entropy was decreased by the demon's sorting actions.
+* Resolutions to the demon paradox became the foundations of two new fields: information theory  and the physics of information
+* **statistical mechanics**:it proposes large scale properties (eg. heat) emerge from microscopic properties (i.e. motions of trillions of molecules).
+* A statistical mechanics approach gives up on determining the exact position, velocity and future behavior of each molecule in the room and instead tries to predict the average positions and velocities of large ensembles of molecules.
+* **Microstates and Macrostates**: Boltzman entropy obeys the second law of thermodynamics. Unless work is done, Boltzman's entropy will always increase until it gets to a macrostate with highest possible entropy
+* **Shannon Information**
+* Maximum transformission rate of information over a given channel (wire or other medium), even if there are errors in transmission caused by noise on the channel. This maximum transmission rate is called *channel capacity*.
+* **Shannon entropy**
+
+* **Computation**: The notion of computation has come long ways since the early days of computers. Many phenomenon in nature are viewed as computation now.
+* Information concerns the predictability of a message, and information is processed via imputation
+* Before 1940s, those who could do faster math calculation by hand used to be called computer.
+* Electonics computers do computation now; natural complex systems also do compuation.
+* Does computers have any limits? How much can be accomplished through computation?
+* Set of abstract math problems posed by German Mathematician David Hilbert in the year 1900 at the international congress of mathematicians in Paris sparked deeper study of foundations and limitations of computation which led to the discovery of electronic computers.
+* Is mathematics complete?: Can every mathematical statement be proved or disproved from a given finite set of axioms?
+* Is mathematics consistent?: Can only the true statements be proved.
+* Is every statment in mathematics decidable?: Is there a finite procedure that can be applied to every statement that will tell us in finite time whether or not the statement is true/false?
+* Godel's incompleteness theorem: If arithmetic is consistent, then there are true statement in arithmetic that cannot be proved, that is, arithmetic is incomplete.
+* **Turing machines and incomputability**: 
+* Definite procedures defined as turing machines:  Turing machines were put forth as the definition of "definite procedure"
+* Universal Turing Machines
+* The very same string of 0s and 1s on a tape could be interpreted as either a program or as input to another program was truly novel.
+* There can be no definite procedure for solving the halting problem
+* Universal turing machines laid the groundwork for the invention of electronic programmable computers during 1930s.
+* **Evolution**
+* To decrease entropy, work must be done. Who or what is doing the work of creating and maintaining living systems and making them more complex?
+* Pre-darwinian notions of Evolution: inheritance of acquired characteristics
+* **Notion of invisible hand in economics**: A collection of individuals acting in their own self interest produces maximum benefit for the entire community.
+* Evolution by natural selection
+* Mendel and Mechanism of Heredity: Medium of inheritance of characteristics were the discrete factors contributed by both parents
+* Drift is a stronger force in small rather than large populations, because in large populations, the small fluctuations that eventually result in drift tend to cancel one another out.
+* Wright believed that random genetic drift played a significant role in evolutionary change and origin of new species, whereas in Fisher's view, drift played only an insignificant role at best.
+* Historical contingency: All the random accidents large and small that have contributed to the shaping of an oragnism
+* The transcription and translation of a gene is called the gene's expression and a gene is being expressed at a given time if it is being transcribed and translated
+* Physicist Seth Lloyd in 2001 proposed three different dimensions to measure the complexity of an object or process
+  * how hard is it to describe?
+  * How hard is it to create?
+  * What is its degree of organization ?
+* Complexity as size, complexity as entropy,complexity as algorithmic information content,complexity as a logical depth, complexity as a thermodynamic depth, complexity as computational capacity,statistical complexity,complexity as fractal dimension,complexity as a degree of hierarchy
+
+## Life and Evolution in Computers
+## Chapters 8-9: Self-reproducing computer programs, Genetic Algorithms
+* Biologists claim computers don't check all  the requisties of life like autonomy, metabolism,self-reproduction,survival instinct, evolution and adaptation.
+* Computers have been able to do these things one way or another
+* Dual use of information used for self-reproducing computer program. eg. Godel's paradox, self-replication in DNA
+* John Von Neumann (formuated in 1950s) self-reproducing Automaton contained self-copying program as well as the machinery needed for its interpretation similar to what was found later in DNAs.
+* Von Neuman wanted to have computers reproduce themselves with mutation and comptete for resources to survive in the environment (survival instinct, evolution and adaptation).
+* John Holland's 1975 book *Adaptation in natural and artifical systems* laid out set of principles for adaptation and proposal for genetic algorithms
+* In genetic algorithm, we want the program to evolve over time itself and do the better job than it did in the beginning.
+* GA has two parts: population of condidate programs and fitness function that takes a candidate program and assigns to it a fitness value that measures how well that programs work on the desired task.
+* GAs have been used in solving many hard problems in many scientific and engineering areas as well as in art, achitecture and music.
+* Evolving Robby, the soda can collecting robot
+* Its difficukt to figure out how the interactions of various genes lead to the overall behavior or fitness of the robot
+* The increase in number of iterations of Robot's work increases its performance and fitness. That means it evolves a solution that works at each iteration of the task.
+
+## Computation writ Large
+## chapters 10,11,12: Cellular automata, life and the universe, computing with particles and information processing in living systems
+* Cellular automaton
+* In a computer, RAM stores program instructions and data as a memory and CPU fetches the instructions and data from the memory and executes the instructions on the data
+* cellular automaton is a grid of cells where each cell is a simple unit that turns on or off in response to the states in its local neighborhood.
+* The game of life (John COnway): Conway defined cells in terms of four life process; **birth**-a dead cell with exactly three live neighbors becomes alive at the next step; **survival**,a live cell with exactly two or three live neighbors stays alive; **loneliness**, a live cell with fewer than two neigbor dies and a dead cell with fewer than three neighbors stays dead; and **overcrowding**, a live or dead cell with more than three live neighbors dies or stays dead.
+*
+
+
+
+

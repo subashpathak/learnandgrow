@@ -1,0 +1,45 @@
+---
+title: "Dr. Cornel West in Joe Rogan Experience"
+author: "Subash Pathak"
+date: "August 11, 2019"
+output: html_document
+---
+
+
+##Podcast Links and description
+* Podcast Name: Joe Rogan Experience
+* https://www.youtube.com/watch?v=ViWvAnvT17c
+* Apple podcast app
+* Date listened: August 11, 2019
+
+
+
+## Some notes from the Interview
+* Anton Chekhov's short story (best one is *Student*)
+* Cornel West is author of "Race Matters"
+* Deep comedy: Recognition of mind and soul at deeper level
+* There is dramatic level of incongruity at the highest level of humanity.
+* Socrates never shed  tears: The founder of philosophy in modern west loves wisdom but not human beings. Its impossible to love humans and not shed tears
+* You can never get full scale variety of human conditions in one confined tradition
+* Trump's been able to get away with things with no accountability up until presidency
+* Trump was able to expose the pre-packaged commodity called politicians
+* America's sin was not only slavery but the failure to co-exist with indigneous people. They were destroyed through genocide
+* Wald whitmen, Hellen keller, John Doe, Martin Luther king etc.. all have some grounds of democratic socialism.
+* The idea of democratic socialism hasn't been implemented correctly before.
+* The discourse of whiteness, blackness or brownness is deeply rooted in American laws and rules. Music, art and creative activities help remove the structural barriers between people of different colors.
+* Let the market decide philosophy doesn't care about ethics and humanity. That doesn't mean we need to eliminate system; rather ethics and humanity should be the priorities.
+* Democratic capitalism with no accountability breeds a system filled with gross inequality among people
+* Its not about symbolic representation only; its about the fundamental transformation.
+* Primacy of morality and ethics create vision to connect as human beings
+* Moments are not to be trashed; those moments constitute of memory that show what it could be.
+* Democratic revitalization of the generation: We all have our fears, insecurities and anxiety, we need to be grateful for the love we received. Spread love and justice.
+* **Study prior greats in your field; For eg. if you are in statistics, study the best statistician of all time, and see their greatness in the work they did; not to copy their work but to see the greatness and be inspired by them**.
+* Richard Prior, the freest man in 21st century
+* Malcom X: A sincere human bein who is willing to update world views based on facts and deep understanding
+* Self-giving and self-emptying through arts,music, kindness, sweetness and gentleness
+* Oligarchy in music industry controls  sentiments of the entire industry.
+* Social media, spectacle etc.. dilutes gentleness of music
+* **Gary Klark Jr**
+* Great music goes through your whole body: its like a drug; it changes your state
+
+ 

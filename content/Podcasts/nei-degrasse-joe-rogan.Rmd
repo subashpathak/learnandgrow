@@ -1,0 +1,54 @@
+---
+title: "neil-degrasse-joe-rogan"
+author: "Subash Pathak"
+date: "September 7, 2019"
+output: html_document
+---
+
+
+
+## Podcast Links and description
+* Podcast Name: Joe Rogan Experience
+* https://www.youtube.com/watch?v=0pmviUS1Zac
+* Apple podcast app
+* Date listened: September 7, 2019
+
+## Major points from the Interview
+
+* Anything that deviates from reality is reality that has been filtered through your senses. Art at its highest form represents that.
+* Starry night painting (Vincent Van Gogh)
+* Paul Revere is household name but other war generals go unnoticed.
+* Somebody wrote a poem about him and elevated the importance of his mundane job as a messenger.
+* Road to sainthood from bein an ordinary person is beatification.
+* cherry picking of science to deny things like global warming, vaccines etc.. slows down the progress of civilization
+* Anamolous behavior of water- it expands when the temperature goes below 4 degree celsius unit the freezing point. Frozen ice insulates the bottom of the lake in winter and fishes survive.
+* Dry ice- frozen Co2
+* We interpret life based on what our senses are exposed to
+* Telescopses need more sunglight to increase their effectiveness
+* Astrophysicists are interested in finding out the position and place of our existence in the universe
+* Desalinating ocean water for fresh water is costly and may not be worth doing it.
+* You can think of hydro and wind power as solar power since they are all connected to sunglight.
+* Tidal energy could be used to produce electricity
+* Germans invented modern highway System for the operation of their military
+* Cars should have been electric 100 years ago when electricity was all the rage
+* Tesla's idea of broadcasting electricity requires enromous amount of energy to move through the air so that we can power something like bulbs etc..
+* If you move energy trhough the air to power sth, it can kill you and has tons of other unseen health consequences
+* Digital privacy could be a huge problem nowadays
+* Social media and search engines are tailoring things to our liking  and this might deprive us of stumbling onto something that's different than what you think
+* Benjamin Franklin once said: Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.
+* We are sliding towards total monitoring with the premise that its for our safety and security
+* George Orwell book: 1984
+* Social media like fb, twitter, instagram are the gatekeepers of our privacy
+* We carry around our passive listening devices which catch what we are doing everyday in our life
+* Aerospace engineering is one of the greatest inventions of mankind
+* dark matter
+* Part of the thrill is not knowing what it is we are trying to explore.
+* As the area of our knowledge grows bigger and bigger the perimeter of our ignorance also grows accordingly
+* letters from Astrophysicist, a new book by Neil Degrasse Tyson
+* Science can describe how gravity works but can they describe why gravity works
+* I can answer your why question most of the time but there comes a point when we can't answer why question
+* Spooky action at a distance: Newton
+* Einstein defined gravity as the curvature of space and time and you moving in that curvature
+* Matter tells space how to curve and space tells matter how to move
+* We can deterime the mass of the blackhole based on how fast the stars are moving based on the distance from the blackhole
+

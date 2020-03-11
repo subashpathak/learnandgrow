@@ -1,0 +1,243 @@
+---
+title: "Books and Websites"
+author: "Subash Pathak"
+date: "September 19, 2019"
+output: html_document
+---
+
+
+
+
+## Websites
+* [Farnam Street](https://fs.blog/)
+
+* [James Clear](https://jamesclear.com/)
+
+* [Quanta Magazine](https://www.quantamagazine.org/)
+
+* https://www.johndcook.com/blog/
+
+* [Datamethods](https://discourse.datamethods.org/)
+
+* [Frank Harrell](https://www.fharrell.com/)
+
+* [Andrew Gelman](https://statmodeling.stat.columbia.edu/)
+
+* https://darrendahly.github.io/
+
+* http://varianceexplained.org
+
+* http://jakewestfall.org/blog/
+
+* [Richard McElreath](http://elevanth.org/blog/)
+
+* https://www.edwardtufte.com/tufte/
+
+* https://daniellakens.blogspot.com/
+
+* https://replicationindex.com/
+
+* https://rpsychologist.com/
+
+* https://lesslikely.com/
+
+* https://errorstatistics.com/
+
+* [Derek Sivers](https://sivers.org/)
+
+* https://qualiacomputing.com/
+
+* https://systemsacademy.io/articles/
+
+* https://complexityexplained.github.io/
+
+* https://chrisalbon.com/
+
+* https://seths.blog/
+
+* [Sample size calculation--nquery blog](https://blog.statsols.com/)
+
+* [The best theoretical physics blog that the search engine can offer you, by a Czech conservative string theorist, focusing on high-energy physics and the climate change facts](https://motls.blogspot.com/2019/09/mwi-in-quanta-magazine.html)
+
+* [Public datasets in different Domains](https://github.com/awesomedata/awesome-public-datasets)
+
+* [Early Days Interviews from World-Class Leaders](https://founderrewind.com/)
+
+
+## Online learning websites
+* https://www.santafe.edu/
+* https://www.edx.org/
+* https://www.coursera.org/
+* https://education.rstudio.com/
+* 
+
+##Books
+1. [Infinite Powers](https://www.amazon.com/Infinite-Powers-Calculus-Reveals-Universe/dp/1328879984)
+
+2. [Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=KZ4PT9NZAKAFBTSXFQM0)
+
+3. [Sync](https://www.amazon.com/Sync-Order-Emerges-Universe-Nature/dp/0786887214/ref=sr_1_1?keywords=sync&qid=1569034147&s=books&sr=1-1)
+
+4. [Brief History of Time](https://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168/ref=sr_1_1?keywords=brief+history+of+time&qid=1569034213&s=books&sr=1-1)
+
+5. [Godel, Escher,Bach](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/ref=sr_1_1?crid=1LAOBXWNT6FI5&keywords=godel+escher+bach&qid=1569034677&s=books&sprefix=godel%2Cstripbooks%2C232&sr=1-1)
+
+6. [Complexity: A guided Tour](https://www.amazon.com/Complexity-Guided-Tour-Melanie-Mitchell-ebook/dp/B002SAUBWC/ref=sr_1_1?crid=3TR9VM8WMOQ7N&keywords=complexity+a+guided+tour&qid=1569034313&s=books&sprefix=complexity%2Cstripbooks%2C249&sr=1-1)
+
+7. [The model thinker](https://www.amazon.com/Model-Thinker-What-Need-Know/dp/0465094627/ref=sr_1_1?crid=3V77T0T6RSMTN&keywords=the+model+thinker&qid=1569034379&s=books&sprefix=the+model+th%2Cstripbooks%2C237&sr=1-1)
+
+8. [Thinking fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=sr_1_3?crid=2RB2V61Z8N0DE&keywords=thinking+fast+and+slow&qid=1569034453&s=books&sprefix=Thinking+fa%2Cstripbooks%2C252&sr=1-3)
+
+9. [Poor Charlie's Alamanack](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018/ref=sr_1_3?crid=F8VZKLMI6JA6&keywords=poor+charlies+almanack&qid=1569034545&s=books&sprefix=poor+char%2Cstripbooks%2C234&sr=1-3)
+
+10. [The Nature of the physical World](https://www.amazon.com/nature-physical-Arthur-Stanley-Eddington/dp/B000855R1E/ref=sr_1_1?crid=3SKNB15Z31A99&keywords=nature+of+the+physical+world+eddington&qid=1569034803&s=books&sprefix=Nature+of+the+physical%2Cstripbooks%2C357&sr=1-1)
+
+11. [Surely you are joking Mr. Feynman](https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/ref=sr_1_1?crid=1GJKQ8X4GMPVE&keywords=surely+you%27re+joking+mr.+feynman&qid=1569035484&s=books&sprefix=surel%2Cstripbooks%2C270&sr=1-1)
+
+12.  [The war of art](https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/ref=sr_1_3?crid=1MOL8Y16BJUV3&keywords=the+war+of+art&qid=1569035557&s=books&sprefix=the+war+%2Cstripbooks%2C348&sr=1-3)
+
+13. [The effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459/ref=sr_1_3?crid=35NLPAPW9YTJO&keywords=the+effective+executive+by+peter+drucker&qid=1569035611&s=books&sprefix=the+effective+%2Cstripbooks%2C321&sr=1-3)
+
+14. [The innovators dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780/ref=sr_1_2?crid=RY6W9N7PT27X&keywords=the+innovators+dilemma&qid=1569035719&s=books&sprefix=the+innovators+dilemma%2Cstripbooks%2C234&sr=1-2)
+
+15. [The Hero with a Thousand Faces](https://www.amazon.com/s?k=the+hero+with+a+thousand+faces&i=stripbooks&crid=3T39D561Q1I8A&sprefix=the+hero+w%2Cstripbooks%2C267&ref=nb_sb_ss_i_1_10)
+
+16. [Untethered Soul](https://www.amazon.com/s?k=untethered+soul+by+michael+singer&i=stripbooks&crid=193HITLGV89WT&sprefix=untether%2Cstripbooks%2C299&ref=nb_sb_ss_i_1_8)
+
+17. [The History of Western Philosophy](https://www.amazon.com/s?k=the+history+of+western+philosophy+by+bertrand+russell&i=stripbooks&crid=1ZY68OIBA518X&sprefix=the+history+of+wester%2Cstripbooks%2C236&ref=nb_sb_ss_i_1_21)
+
+18. [Sapiens](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_1?crid=2WX4J2TIU6XDB&keywords=sapiens&qid=1569035939&s=books&sprefix=sapiens%2Cstripbooks%2C257&sr=1-1)
+
+19. [1984](https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934/ref=sr_1_1?keywords=1984&qid=1569036028&s=books&sr=1-1)
+
+20. [History of Statistics](https://www.amazon.com/History-Statistics-Measurement-Uncertainty-before/dp/067440341X/ref=sr_1_1?crid=2OOR4TJ2NGBD&keywords=history+of+statistics&qid=1569036110&s=books&sprefix=history+of+stat%2Cstripbooks%2C240&sr=1-1)
+
+21. [The visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/ref=sr_1_1?keywords=The+visual+display&qid=1569036165&s=books&sr=1-1)
+
+22. [Permutation City](https://www.amazon.com/Permutation-City-Novel-Greg-Egan/dp/1597805394/ref=sr_1_1?keywords=permutation+city&qid=1569036245&s=books&sr=1-1)
+
+23.  [Lessons of History](https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X/ref=sr_1_1?crid=10R55PQO01DSD&keywords=lessons+of+history&qid=1569036336&s=books&sprefix=lessons+of%2Cstripbooks%2C245&sr=1-1)
+
+24.  [Capital](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850/ref=sr_1_3?keywords=capital&qid=1569036387&s=books&sr=1-3)
+
+25.  [Influence](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/ref=sr_1_3?crid=2GEULJLWX7JU6&keywords=influence+robert+cialdini&qid=1569036452&s=books&sprefix=influence%2Cstripbooks%2C266&sr=1-3)
+
+26.  [I will teach you to be rich](https://www.amazon.com/Will-Teach-You-Rich-Second/dp/1523505745/ref=sr_1_1?crid=2QWMC0DC2KDV8&keywords=i+will+teach+you+to+be+rich&qid=1569036496&s=books&sprefix=I+will+%2Cstripbooks%2C277&sr=1-1)
+
+27. [Mind Hacking](https://www.amazon.com/Mind-Hacking-Change-Your-Good/dp/1501105663/ref=sr_1_3?crid=2UA99952CS5M3&keywords=mind+hacking&qid=1569036566&s=books&sprefix=mind+hac%2Cstripbooks%2C257&sr=1-3)
+
+28.  [Zero to one](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_2?crid=1CJ738NMOEN2G&keywords=zero+to+one+peter+thiel&qid=1569036606&s=books&sprefix=zero+to+one%2Cstripbooks%2C237&sr=1-2)
+
+29.  [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996/ref=sr_1_3?crid=1PDO2PYVDY0ES&keywords=good+to+great+jim+collins&qid=1569036659&s=books&sprefix=good+to+great%2Cstripbooks%2C264&sr=1-3)
+
+30. [Built to Last](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402/ref=sr_1_3?crid=1RCELMYROPFAV&keywords=built+to+last+jim+collins&qid=1569036712&s=books&sprefix=built+to+la%2Cstripbooks%2C233&sr=1-3)
+
+31.  [The language Instinct](https://www.amazon.com/Language-Instinct-Creates-Perennial-Classics/dp/0061336467/ref=sr_1_2?crid=3063463V4Z6JZ&keywords=the+language+instinct&qid=1569036762&s=books&sprefix=the+language+inst%2Cstripbooks%2C518&sr=1-2)
+
+32. [Skin in the Game](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X/ref=sr_1_2?crid=2ACLEH5TPR2B5&keywords=skin+in+the+game&qid=1569036802&s=books&sprefix=skin+in+the%2Cstripbooks%2C232&sr=1-2)
+
+33. [Collapse](https://www.amazon.com/Collapse-Societies-Choose-Succeed-Revised/dp/0143117009/ref=sr_1_1?crid=2LFE09B5E3D42&keywords=collapse+jared+diamond+book&qid=1569036835&s=books&sprefix=collapse%2Cstripbooks%2C330&sr=1-1)
+
+34. [How the Mind works](https://www.amazon.com/How-Mind-Works-Steven-Pinker/dp/0393334775/ref=sr_1_3?crid=MVUUYP5ZCKRU&keywords=how+the+mind+works+steven+pinker&qid=1569036869&s=books&sprefix=how+the+mind%2Cstripbooks%2C231&sr=1-3)
+
+35. [Blink](https://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669/ref=sr_1_2?crid=1FLM207X7IJRA&keywords=blink+malcolm+gladwell&qid=1569036945&s=books&sprefix=blink%2Cstripbooks%2C238&sr=1-2)
+
+36. [Choose Yourself](https://www.amazon.com/Choose-Yourself-Happy-Millions-Dream/dp/B00D41EIPU/ref=sr_1_3?crid=14RRWRQIOKSUK&keywords=choose+yourself+james+altucher&qid=1569036986&s=books&sprefix=choose+yourself%2Cstripbooks%2C239&sr=1-3)
+
+37. [Style: Toward Clarity and Grace](https://www.amazon.com/Style-Lessons-Clarity-Grace-12th/dp/0134080416/ref=sr_1_1?crid=1B9QY2437KKG4&keywords=styles+lessons+in+clarity+and+grace&qid=1569037090&s=books&sprefix=style+clarity%2Cstripbooks%2C247&sr=1-1)
+
+38. [The Fractal Geometry of nature](https://www.amazon.com/Fractal-Geometry-Nature-Benoit-Mandelbrot/dp/0716711869/ref=sr_1_1?crid=EIP5VNQ465CJ&keywords=the+fractal+geometry+of+nature&qid=1569037208&s=books&sprefix=the+fractal+geomet%2Cstripbooks%2C234&sr=1-1)
+
+39. [The wisdom of Crowds](https://www.amazon.com/Wisdom-Crowds-James-Surowiecki/dp/0385721706/ref=sr_1_1?crid=CM14ED1DM7VM&keywords=the+wisdom+of+crowds+-+james+surowiecki&qid=1569037316&s=books&sprefix=the+wisdom+of+crowds%2Cstripbooks%2C249&sr=1-1)
+
+40. [The Daily Stoic](https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/B01MA32SO0/ref=sr_1_2?crid=3GRED7QBTX2IM&keywords=the+daily+stoic&qid=1569037436&s=books&sprefix=the+daily+st%2Cstripbooks%2C271&sr=1-2)
+
+41. [The emperor of all Maladies](https://www.amazon.com/Emperor-All-Maladies-Biography-Cancer/dp/B017DQSQD6/ref=sr_1_1?crid=3DAVF98S5SCFM&keywords=the+emperor+of+all+maladies&qid=1569037528&s=audible&sprefix=the+emperor+o%2Caudible%2C223&sr=1-1)
+
+42. [The art of doing Science and Engineering](https://www.amazon.com/Art-Doing-Science-Engineering-Learning-ebook/dp/B07CSX7TCM/ref=sr_1_1?crid=TI34WHV9Q5MD&keywords=the+art+of+doing+science+and+engineering+learning+to+learn&qid=1569037604&s=audible&sprefix=the+art+of+doing+science%2Caudible%2C237&sr=8-1)
+
+43. [Superforecasting](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718/ref=sr_1_1?crid=3OAK95XRO86HL&keywords=superforecasting+the+art+and+science+of+prediction&qid=1569037643&s=gateway&sprefix=superforecast%2Caps%2C230&sr=8-1)
+
+44. [Networks:An introduction](https://www.amazon.com/Networks-Introduction-Mark-Newman/dp/0199206651/ref=sr_1_2?crid=3EOCUOPHVKHU4&keywords=networks+an+introduction&qid=1569037710&s=gateway&sprefix=Networks+an+%2Caps%2C234&sr=8-2)
+
+45. [Outliers](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930/ref=sr_1_1?crid=3KDJB5OA0D3PB&keywords=outliers+malcolm+gladwell&qid=1569037748&s=gateway&sprefix=outliers%2Caps%2C249&sr=8-1)
+
+46. [Language, Truth and Logic](https://www.amazon.com/Language-Truth-Logic-Western-Philosophy/dp/0486200108/ref=sr_1_1?crid=1GKBRPYJUOBGA&keywords=language+truth+and+logic&qid=1569037795&s=gateway&sprefix=language+truth+%2Caps%2C270&sr=8-1)
+
+47. [NUdge](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X/ref=sr_1_2?crid=25DXADPHFTU2X&keywords=nudge+book&qid=1569037853&s=gateway&sprefix=Nudge%2Caps%2C287&sr=8-2)
+
+48. [12 rules for Life](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_2?crid=NSNKDWVM98HX&keywords=12+rules+for+life&qid=1569037895&s=gateway&sprefix=12+rule%2Caps%2C252&sr=8-2)
+
+49. [Why Nations Fail](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719227/ref=sr_1_1?crid=FGRPYFTFH9JE&keywords=why+nations+fail&qid=1569037932&s=gateway&sprefix=why+na%2Caps%2C255&sr=8-1)
+
+50. [The 4-hour workweek](https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/ref=sr_1_3?crid=31XJGE5QY9V2Q&keywords=the+4+hour+work+week&qid=1569037975&s=gateway&sprefix=the+4+hou%2Caps%2C237&sr=8-3)
+
+51. [L.Annaeus Seneca on Benefits](https://www.amazon.com/L-Annaeus-Seneca-Benefits-Lucius-ebook/dp/B004TOUJ36/ref=sr_1_1?keywords=L+anneaus+seneca+on+benefits&qid=1569038063&s=gateway&sr=8-1-spell)
+
+52. [The black Swan](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=sr_1_1?crid=2AGE4C5V7EFEZ&keywords=the+black+swan&qid=1569038109&s=gateway&sprefix=the+black+swan%2Caps%2C291&sr=8-1)
+
+53. [River out of Eden](https://www.amazon.com/s/ref=nb_sb_ss_i_1_15?url=search-alias%3Daps&field-keywords=river+out+of+eden&sprefix=River+out+of+ed%2Caps%2C250&crid=24YRTHIIAKKGU)
+
+54. [Man's Search For Meaning](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B014NW88S6/ref=sr_1_2?keywords=Man%27s+search+for+meaning&qid=1569038344&s=gateway&sr=8-2)
+
+55. [The intelligent investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/ref=sr_1_3?crid=214KFOP5A7Q6M&keywords=the+intelligent+investor+by+benjamin+graham&qid=1569038383&s=gateway&sprefix=the+intell%2Caps%2C253&sr=8-3)
+
+56. [Process and Reality](https://www.amazon.com/Process-Lectures-Delivered-University-Edinburgh/dp/0029345707/ref=sr_1_1?crid=LPOSP081U1LU&keywords=process+and+reality&qid=1569038426&s=gateway&sprefix=Process+and+re%2Caps%2C323&sr=8-1)
+
+57. [On the origin of Species](https://www.amazon.com/Origin-Species-150th-Anniversary/dp/0451529065/ref=sr_1_3?crid=2GJOPNXDMYBOQ&keywords=on+the+origin+of+species&qid=1569038478&s=gateway&sprefix=on+the+or%2Caps%2C285&sr=8-3)
+
+58. [Astrophysics for people in a Hurry](https://www.amazon.com/Astrophysics-People-Hurry-deGrasse-Tyson/dp/0393609391/ref=sr_1_1?crid=2ANKW3YUWISPY&keywords=astrophysics+for+people+in+a+hurry&qid=1569038540&s=gateway&sprefix=Astrophys%2Caps%2C235&sr=8-1)
+
+59. [The Wealth of Nations](https://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1680920960/ref=sr_1_4?crid=2LZJOOFBG7YLH&keywords=the+wealth+of+nations&qid=1569038580&s=gateway&sprefix=The+wea%2Caps%2C243&sr=8-4)
+
+60. [48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197/ref=sr_1_1?crid=30EZR7EXEPFVU&keywords=48+laws+of+power&qid=1569038624&s=gateway&sprefix=48+%2Caps%2C249&sr=8-1)
+
+61. [The selfish Gene](https://www.amazon.com/s?k=the+selfish+gene&crid=OPVXWWICGZ4Z&sprefix=the+selfis%2Caps%2C251&ref=nb_sb_ss_i_1_10)
+
+62. [The book of Why](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_1?crid=2775U5808GBN5&keywords=the+book+of+why&qid=1569038758&s=gateway&sprefix=the+book+of+w%2Caps%2C327&sr=8-1)
+
+63. [War and Peace](https://www.amazon.com/Peace-Translated-Louise-Aylmer-Maude-ebook/dp/B01GBWT0L0/ref=sr_1_2_sspa?crid=BEEJDN4QNPXP&keywords=war+and+peace&qid=1569038799&s=gateway&sprefix=war+aN%2Caps%2C252&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFUSktIQzVXWU5WS1cmZW5jcnlwdGVkSWQ9QTA3OTAyNjRZMDJVTTk2SzBHR0smZW5jcnlwdGVkQWRJZD1BMDc5NTkyODFDQ0IwTjQwUU84TTkmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
+
+64. [Tools of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=sr_1_2?crid=13XU74A3AY7YD&keywords=tools+of+titans&qid=1569038857&s=gateway&sprefix=tools+of+tita%2Caps%2C278&sr=8-2)
+
+65. [Hillbilly Elegy](https://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture/dp/0062300555/ref=sr_1_2?crid=1Z6H8UNJJ8LMH&keywords=hillbilly+elegy&qid=1569038896&s=gateway&sprefix=hill%2Caps%2C304&sr=8-2)
+
+66. [Chaos Monkeys](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure/dp/0062458205/ref=sr_1_1?keywords=chaos+monkeys&qid=1569038989&s=gateway&sr=8-1)
+
+67. [A random walk down the wall street](https://www.amazon.com/Random-Walk-down-Wall-Street/dp/0393352242/ref=sr_1_1?crid=BBRI4N0E0DCX&keywords=a+random+walk+down+wall+street&qid=1569039063&s=gateway&sprefix=a+rand%2Caps%2C247&sr=8-1)
+
+68. [10% happier](https://www.amazon.com/10-Happier-Self-Help-Actually-Works/dp/0062265431/ref=sr_1_2?crid=2N1QQOK41INMO&keywords=10+percent+happier+by+dan+harris&qid=1569039119&s=gateway&sprefix=10+pe%2Caps%2C243&sr=8-2)
+
+69. [How not to be wrong](https://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535/ref=sr_1_1?crid=1VE4ZHX0JQH8&keywords=how+not+to+be+wrong&qid=1569039278&s=gateway&sprefix=how+not+%2Caps%2C280&sr=8-1)
+
+70. [Think and grow Rich](https://www.amazon.com/Think-Grow-Rich-Napoleon-Hill/dp/1936594226/ref=sr_1_2_sspa?crid=20XKP8TO60OCP&keywords=think+and+grow+rich&qid=1569039371&s=gateway&sprefix=think+%2Caps%2C271&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWkVPMktQUFlCVlhUJmVuY3J5cHRlZElkPUExMDQyODc5Mkg0M0NZVEVDWEhHUyZlbmNyeXB0ZWRBZElkPUEwNjUwNTc0MTJVM084OVpSM1RDUyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+
+71. [Factfulness](https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250107814/ref=sr_1_1?crid=1L0KF9C15FBMY&keywords=factfulness&qid=1569039422&s=gateway&sprefix=factfu%2Caps%2C249&sr=8-1)
+
+72. [What do you care what other people think](https://www.amazon.com/What-Care-Other-People-Think/dp/0393355640/ref=sr_1_1?crid=3COB4H1GK6QCM&keywords=what+do+you+care+what+other+people+think&qid=1569039484&s=gateway&sprefix=what+do+you+care+%2Caps%2C231&sr=8-1)
+
+73. [Siddhartha](https://www.amazon.com/Siddhartha-Hermann-Hesse/dp/1420951483/ref=sr_1_2_sspa?crid=2XZVJ37OFLL5M&keywords=siddhartha+herman+hesse&qid=1569039537&s=gateway&sprefix=siddhar%2Caps%2C267&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExODhHVEdRQkpRMUtHJmVuY3J5cHRlZElkPUEwMjAwNTE4MkRDNDU0N05ERlpMOSZlbmNyeXB0ZWRBZElkPUEwNTI0MDcyMlQyVzNNSUxNTlA1MSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+
+74. [Ideas and opinions](https://www.amazon.com/Ideas-Opinions-Albert-Einstein/dp/0517884402/ref=sr_1_1?keywords=ideas+and+opinions&qid=1569039605&s=gateway&sr=8-1)
+
+75. [Millionaire Next Door](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/ref=sr_1_3?crid=3NST39M1KX123&keywords=millionaire+next+door&qid=1569039666&s=gateway&sprefix=million%2Caps%2C325&sr=8-3)
+
+76. [The alchemist](https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0062315005/ref=sr_1_1?crid=3GXD1H66T3JNR&keywords=the+alchemist&qid=1569039745&s=gateway&sprefix=the+alchemis%2Caps%2C235&sr=8-1)
+
+77. [The wolf of wall street](https://www.amazon.com/Wolf-Wall-Street-Leonardo-DiCaprio/dp/B00IIU9U00/ref=sr_1_1?crid=17CGDLI5D4LRR&keywords=the+wolf+of+wall+street&qid=1569039783&s=gateway&sprefix=the+wolf+o%2Caps%2C244&sr=8-1)
+
+78. [The magic of Thinking Big](https://www.amazon.com/Magic-Thinking-Big-David-Schwartz/dp/0671646788/ref=sr_1_3?crid=SFIES1ZYORF8&keywords=the+magic+of+thinking+big+by+david+schwartz&qid=1569039866&s=gateway&sprefix=the+magic%2Caps%2C350&sr=8-3)
+
+79. [Bird by Bird](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?crid=2EO6ZGDTH6S7Z&keywords=bird+by+bird&qid=1569039920&s=gateway&sprefix=bird+by%2Caps%2C255&sr=8-1)
+
+80. [What is called Thinking](https://www.amazon.com/What-called-thinking-Martin-Heidegger/dp/B0000CODJB/ref=sr_1_2?crid=3QHYIKPIJSC81&keywords=what+is+called+thinking+martin+heidegger&qid=1569039988&s=gateway&sprefix=what+is+called%2Caps%2C229&sr=8-2)
+
+81. [Seven pillars of statistical wisdom](https://www.amazon.com/Seven-Pillars-Statistical-Wisdom/dp/0674088913/ref=sr_1_1?crid=24MD8RPOZWIMZ&keywords=seven+pillars+of+statistical+wisdom&qid=1569040058&s=gateway&sprefix=seven+pillars+of+stat%2Caps%2C245&sr=8-1)
+
+82. [The Artist's Way](https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252/ref=sr_1_1?crid=2J034IOG39JWI&keywords=the+artists+way&qid=1569040119&s=gateway&sprefix=the+artist%2Caps%2C285&sr=8-1)
+
+83. [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/ref=sr_1_1?crid=B9RWS6QCPGOM&keywords=antifragile+by+nassim+taleb&qid=1569044702&s=gateway&sprefix=antifra%2Caps%2C250&sr=8-1)
+
+
+
+

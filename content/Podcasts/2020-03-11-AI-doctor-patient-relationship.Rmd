@@ -1,0 +1,34 @@
+---
+title: "Dr.Eric Topol on How AI can improve the doctor patient Relationship"
+author: "Subash Pathak"
+date: "July 27, 2018"
+output: html_document
+---
+
+
+## Podcast Links and description
+* Podcast Name: Clear and vivid with Alan alda
+* https://www.stitcher.com/podcast/clear-vivid-with-alan-alda/e/62737699?autoplay=true
+* Apple podcast app
+* Date listened: July 27, 2019
+
+## Notes from the interview:
+* AI can help doctors free their time:
+    * Physicians are burned out in their work often
+    * 2/3 of doctors activity get focused on typing at the keyboard...wastes time
+    * Use voice from AI instead of keyboards and saves time for patient-doctor interaction 
+* Idea of deep medicine: More deeply we understand a patient's data, the better we will be to respond to their health issues individually.
+* Deep phenotyping: Characterizing patient in many different layers eg: anatomy trhough skin, physiology through sensors, environment through sensors.
+* AI collects all phenotyping data about the person and helps diagnosis of diseases like UTIs,skin rashes, skin cancer,ear infection accurately.
+* You don't need to see doctor for the diagnosis of simple diseases. Lots of routine things which are not of serious nature will be offloaded to patients.
+* Virtual Medical coach: Avatar on smartphone that collects all your health related data like heartbeat, blood pressure, genome and microbiome. It gives feedback about your health on real time.
+* Nearest neighbor analysis: Matches people with similar genomes and what worked for them in different treatment situations
+* AI is a vital part of personalized medicine development
+* In UK, some hospitals have avoided using keyboards and use voice instead
+
+* Danger of AI: Not accurate prediction of health outcomes and needs tons of improvement
+* AI can accurately and effectively recognize images and patterns which could be time consuming for doctors.
+
+
+    
+
