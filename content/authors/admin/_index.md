@@ -1,6 +1,6 @@
 ---
 authors:
-email: 'subash12q@gmail.com'
+email: ''
 name: Subash Pathak
 social:
 - icon: envelope
