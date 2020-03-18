@@ -13,5 +13,5 @@ user_groups:
 - Visitors
 ---
 
-I think. I write. I explore.
+
 
